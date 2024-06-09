@@ -1,0 +1,10 @@
+### Login
+POST  http://localhost:3100/api/auth/register
+Content-Type: application/json
+
+{
+  "name":"Zadquiel",
+  "email":"zadquiel@gmail.com",
+  "password":"123456",
+  "otra":"jhhj"
+}
